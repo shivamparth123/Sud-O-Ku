@@ -1,0 +1,14 @@
+# Build output
+sudoku
+*.o
+*.out
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
